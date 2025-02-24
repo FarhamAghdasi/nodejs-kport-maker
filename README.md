@@ -1,4 +1,3 @@
-```markdown
 # IP Range Combiner
 
 A simple Node.js script to combine corresponding IP address ranges from two input files into a formatted output file.
